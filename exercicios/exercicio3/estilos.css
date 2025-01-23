@@ -1,0 +1,22 @@
+*{list-style: none; text-decoration: none; margin: 0; padding: 0;}
+body{margin: auto; background: #444;}
+
+#header{width: 100%; height: 40px; background: #000;}
+
+h1{font: normal 20px arial; color: #999; line-height: 40px; padding-left: 10px;}
+
+#container{width: 1000px; min-height: 1px; margin: auto; padding: 10px 0 0 0; background: #333;}
+#area-container{width: 1000px; min-height: 1px; margin: auto; padding: 5px 0; float: left;}
+
+#historia{width: 300px; min-height: 1px; padding: 10px 5px; background: #333; float: left; margin: 0 5px;}
+#esporte{width: 300px; min-height: 1px; padding: 10px 5px; background: #333; float: left; border-right: 1px solid #DDD; border-left: 1px solid #DDD; margin: 0 5px;}
+
+h2{font: normal 16px arial; color: #999; line-height: 40px; padding-left: 10px;}
+p{font: normal 12px arial; color: #999; padding: 0 10px; margin: 10px 0; text-align: justify;}
+
+#menu{width: 300px; min-height: 1px; padding: 10px 5px; background: #333; float: left; margin: 0 5px;}
+#menu ul li{display: block; background: url(../exercicio3/imagens/) no-repeat 0px; padding-left: 35px;}
+#menu ul li a{color: #999; font: normal 12px arial;}
+#menu ul li a:hover{color: #FFF; text-decoration: underline;}
+
+#historia{width: 300px; min-height: 1px; padding: 10px 5px;background: #333; float: left;}
